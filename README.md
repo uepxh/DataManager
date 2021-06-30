@@ -16,6 +16,4 @@
 
 DataManager这个文件夹是一个RadAsm工程文件夹
 
-Bak里放的是备份文件
-
 使用的RadAsm版本为2.2.1.9
